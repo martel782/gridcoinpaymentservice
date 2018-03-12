@@ -1,2 +1,2 @@
-# gridcoinpaymentservice
-paymentservice for gridcoin
+# buerstcoinpaymentservice
+paymentservice for Burstcoin
